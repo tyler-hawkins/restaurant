@@ -1,1 +1,1 @@
-console.log("Restaurant page here");
+(()=>{"use strict";document.getElementById("content").appendChild(function(){const e=document.createElement("div");e.classList.add("header");const t=document.createElement("h2");return t.innerHTML="Restaurant",e.appendChild(t),e}())})();
