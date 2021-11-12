@@ -1,1 +1,2 @@
-console.log("Restaurant page here");
+import { load } from "./website";
+load();
