@@ -1,7 +1,14 @@
+body {
+	margin: 0;
+}
+
 .header {
+	display: flex;
 	background-color: #414141;
 }
 
 .header h2 {
 	color: #f8f8ff;
+	padding: 0;
+	margin-left: 1rem;
 }
